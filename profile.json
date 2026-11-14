@@ -1,0 +1,166 @@
+{
+  "version": 1,
+  "login": "tenoxlegoat",
+  "seed": "#5B82AD",
+  "seedFromAvatar": true,
+  "scheme": "tonalSpot",
+  "motion": true,
+  "iconFill": true,
+  "order": [
+    "hero",
+    "socials",
+    "about",
+    "stack",
+    "projects",
+    "stats",
+    "streak",
+    "wave",
+    "buttons"
+  ],
+  "hidden": [
+    "stats",
+    "streak",
+    "projects"
+  ],
+  "hero": {
+    "greeting": "Hi, I'm",
+    "name": "Tenox",
+    "subtitle": "I develop thing for myself.",
+    "typing": true,
+    "avatarShape": "cookie12",
+    "chips": [
+      {
+        "icon": "location_on",
+        "label": "Earth"
+      },
+      {
+        "icon": "code",
+        "label": "HTML/CSS · Python"
+      }
+    ]
+  },
+  "about": {
+    "title": "About me",
+    "items": [
+      {
+        "icon": "person",
+        "label": "Developer and designer"
+      },
+      {
+        "icon": "code",
+        "label": "Mostly frontend"
+      },
+      {
+        "icon": "language",
+        "label": "French and english"
+      }
+    ]
+  },
+  "stack": {
+    "title": "Tech stack",
+    "groups": [
+      {
+        "title": "Main",
+        "items": [
+          {
+            "icon": "brand:html5",
+            "label": "HTML5"
+          },
+          {
+            "icon": "brand:css",
+            "label": "CSS3"
+          },
+          {
+            "icon": "brand:python",
+            "label": "Python"
+          },
+          {
+            "icon": "brand:linux",
+            "label": "Linux Bash"
+          }
+        ]
+      },
+      {
+        "title": "Tools",
+        "items": [
+          {
+            "icon": "brand:git",
+            "label": "Git"
+          },
+          {
+            "icon": "brand:githubactions",
+            "label": "GitLabActions"
+          },
+          {
+            "icon": "brand:github",
+            "label": "Github"
+          },
+          {
+            "icon": "brand:proxmox",
+            "label": "Proxmox"
+          }
+        ]
+      }
+    ]
+  },
+  "projects": {
+    "source": "pinned",
+    "repos": [],
+    "overrides": {},
+    "empty": "No description yet.",
+    "fork": "Fork"
+  },
+  "stats": {
+    "title": "GitHub activity",
+    "stars": "Stars earned",
+    "contributions": "Contributions this year",
+    "repos": "Public repos",
+    "followers": "Followers",
+    "calendar": "Last 21 days",
+    "weekdays": "SMTWTFS",
+    "languages": "Languages across my repositories",
+    "showLanguages": false
+  },
+  "streak": {
+    "title": "Streak",
+    "current": "Current streak",
+    "longest": "Longest this year",
+    "days": "days"
+  },
+  "socials": {
+    "items": [
+      {
+        "icon": "brand:telegram",
+        "url": "https://t.me/"
+      },
+      {
+        "icon": "brand:discord",
+        "url": "https://discord.com/"
+      },
+      {
+        "icon": "brand:x",
+        "url": "https://x.com/"
+      }
+    ],
+    "variant": "chip",
+    "fill": "tonal",
+    "card": true
+  },
+  "buttons": {
+    "items": [
+      {
+        "icon": "language",
+        "label": "My Developement Studio",
+        "url": "https://tenox.vortex-smp.fr/studio",
+        "style": "filled"
+      },
+      {
+        "icon": "link_2",
+        "label": "My socials !",
+        "url": "https://tenox.vortex-smp.fr",
+        "style": "tonal"
+      }
+    ],
+    "card": false
+  }
+}
